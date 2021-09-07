@@ -1,0 +1,17 @@
+C:\Users\ngard\source\repos\Control_Tower_WPF\bin\Debug\Control_Tower_WPF.exe.config
+C:\Users\ngard\source\repos\Control_Tower_WPF\bin\Debug\Control_Tower_WPF.exe
+C:\Users\ngard\source\repos\Control_Tower_WPF\bin\Debug\Control_Tower_WPF.pdb
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\Control_Tower_WPF.csprojAssemblyReference.cache
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\App.g.cs
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\Control_Tower_WPF_MarkupCompile.cache
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\Control_Tower_WPF_MarkupCompile.lref
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\MainWindow.baml
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\Control_Tower_WPF.g.resources
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\Control_Tower_WPF.Properties.Resources.resources
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\Control_Tower_WPF.csproj.GenerateResource.cache
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\Control_Tower_WPF.csproj.CoreCompileInputs.cache
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\Control_Tower_WPF.exe
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\Control_Tower_WPF.pdb
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\Flight_window.g.cs
+C:\Users\ngard\source\repos\Control_Tower_WPF\obj\Debug\Flight_window.baml
